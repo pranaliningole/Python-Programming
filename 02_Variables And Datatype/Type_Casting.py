@@ -13,5 +13,9 @@ t = int(float(a)) # string->float->int (legal coversion)
 print(type(t))
 print("\n")
 
-a = "Pranali"
-t = float(a) # illegal conversion from string ("Pranali") to float
+a = True
+print("True : ",type(a))
+print("\n")
+
+a = input("Enter the value : ")
+print(a, "type is", type(a))
