@@ -1,0 +1,11 @@
+print("*** BILL CALCULATOR ***")
+Product = input("Enter product name  :  ")
+Price = int(input("Enter price :  "))
+Quantity = int(input("Enter quantity :  "))
+print()
+
+print("*** BILL ***")
+print("Product : ",Product)
+print("Price : ",Price)
+print("Quantity : ",Quantity)
+print("Total  :  ",Price*Quantity)

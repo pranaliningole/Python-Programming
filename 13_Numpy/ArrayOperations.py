@@ -1,0 +1,13 @@
+import numpy as np
+a = np.array([4, 5, 6])
+b = np.array([8, 9, 10])
+print(a)
+print(b)
+print()
+print(" Addition : ", a + b)
+print(" Subtraction : ", a - b)
+print(" Multiplication : ", a*b)
+print(" Division : ", a/b)
+print(" Power : ", a**b)
+print(" Dot Product : ", np.dot(a, b))
+print(" Cross Product : ", np.cross(a, b))
