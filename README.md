@@ -1,71 +1,84 @@
 # Python Programming 🐍
 
-A structured repository documenting my journey of learning **Python** through hands-on practice, problem solving, and projects.
+A structured repository documenting my journey of learning **Python fundamentals** through hands-on coding and practice.
+
+This repository contains the basic Python concepts I have learned and implemented through code.
+
+---
 
 ## 🎯 Objective
 
-To build strong Python fundamentals as a foundation for:
+The objective of this repository is to build a strong foundation in Python programming as a starting point for my further learning in:
 
 * Machine Learning
 * Deep Learning
 * Generative AI
 
-## 📚 Learning Path
+---
 
-1. Python Basics
-2. Control Flow
-3. Data Structures
-4. Functions
-5. Object-Oriented Programming
-6. File Handling & Exception Handling
-7. Modules & Packages
-8. Problem Solving
-9. Mini Projects
+## 📚 Topics Covered
 
-## 📂 Repository Structure
+The following Python fundamentals are covered in this repository:
 
-| Directory                 | Description                                       |
-| ------------------------- | ------------------------------------------------- |
-| `01-python-basics`        | Python fundamentals and lecture-wise practice     |
-| `02-control-flow`         | Conditional statements and loops                  |
-| `03-data-structures`      | Lists, tuples, sets, and dictionaries             |
-| `04-functions`            | Functions, arguments, scope, and lambda functions |
-| `05-oop`                  | Object-oriented programming concepts              |
-| `06-files-and-exceptions` | File handling and exception handling              |
-| `07-modules-and-packages` | Modules, packages, and imports                    |
-| `08-problem-solving`      | Python programming problems and practice          |
-| `09-mini-projects`        | Small practical Python projects                   |
-| `10-notes`                | Important concepts and quick references           |
-
-## 📈 Progress
-
-* [ ] Python Basics
-* [ ] Control Flow
-* [ ] Data Structures
-* [ ] Functions
-* [ ] Object-Oriented Programming
-* [ ] File Handling & Exception Handling
-* [ ] Modules & Packages
-* [ ] Problem Solving
-* [ ] Mini Projects
-
-## 🚀 Future Learning
-
-As I progress toward Generative AI, this repository will be expanded with relevant Python tools and concepts such as:
-
-* NumPy
-* Pandas
-* APIs
-* JSON
-* Virtual Environments
-* Data Processing
-* AI/ML-related Python Libraries
-
-## 🔗 Connect With Me
-
-* 💼 **LinkedIn:** https://www.linkedin.com/in/pranali-n-ingole/
-* 🐙 **GitHub:** https://github.com/pranaliningole
+1. **Modules, Comments & pip**
+2. **Variables and Data Types**
+3. **Strings**
+4. **Lists and Tuples**
+5. **Dictionaries and Sets**
+6. **Conditional Statements & Expressions**
+7. **Operators**
+8. **Loops**
+9. **File Handling**
+10. **Error Handling**
+11. **Functions**
+12. **Classes & Object-Oriented Programming Basics**
 
 ---
 
-⭐ This repository is part of my continuous learning journey toward **Machine Learning, Deep Learning, and Generative AI**.
+## 📂 Repository Structure
+
+```text
+Python-Programming/
+│
+├── 01-Modules-Comments-and-pip/
+├── 02-Variables-and-Data-Types/
+├── 03-Strings/
+├── 04-Lists-and-Tuples/
+├── 05-Dictionaries-and-Sets/
+├── 06-Conditional-Statements-and-Expressions/
+├── 07-Operators/
+├── 08-Loops/
+├── 09-File-Handling/
+├── 10-Error-Handling/
+├── 11-Functions/
+└── 12-Classes/
+```
+
+---
+
+## 📈 Status
+
+**Python Fundamentals — Completed ✅**
+
+This repository represents my learning and practice of the fundamental concepts of Python through code.
+
+---
+
+## 🚀 Next Learning Path
+
+After completing Python fundamentals, I am continuing my learning journey toward:
+
+**Python → Machine Learning → Deep Learning → Generative AI**
+
+Larger practical projects will be maintained separately in dedicated project repositories.
+
+---
+
+## 🔗 Connect With Me
+
+* 💼 **LinkedIn:** [linkedin.com/in/pranali-n-ingole](https://www.linkedin.com/in/pranali-n-ingole/)
+* 🐙 **GitHub:** [github.com/pranaliningole](https://github.com/pranaliningole)
+
+---
+
+⭐ This repository represents my **Python fundamentals and coding practice** and serves as the foundation for my journey toward **Machine Learning, Deep Learning, and Generative AI**.
